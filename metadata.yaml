@@ -1,0 +1,54 @@
+_repo: The-Isle-Of-Pines--1668-and-An-Essay-in-Bibliography-by-Worthington-Chauncey-Ford_21410
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Ford, Worthington Chauncey
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '9905'
+    url: http://www.gutenberg.org/2009/agents/9905
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Neville, Henry
+    birthdate: 1620
+    deathdate: 1694
+    gutenberg_agent_id: '9904'
+    url: http://www.gutenberg.org/2009/agents/9904
+description: "Isla de la Juventud (Spanish pronunciation: [ˈihla ðe la huβenˈtuð];\
+  \ English: Isle of Youth) is the second-largest Cuban island and the seventh-largest\
+  \ island in the West Indies (after Cuba itself, Hispaniola, Jamaica, Puerto Rico,\
+  \ Trinidad, and Andros Island). The island was called the Isle of Pines (Spanish:\
+  \ Isla de Pinos) until 1978. It has an area 2,200 km2 (850 sq mi) and is 50 km (31\
+  \ mi) south of the island of Cuba, across the Gulf of Batabanó. The island lies\
+  \ almost directly south of Havana and Pinar del Río and is a Special Municipality\
+  \ (2,419 km2 (934 sq mi)), not part of any province and is therefore administered\
+  \ directly by the central government of Cuba. The island has only one municipality,\
+  \ also named Isla de la Juventud.\nThe largest of the 350 islands in the Canarreos\
+  \ Archipelago (Archipiélago de los Canarreos), the island has an estimated population\
+  \ of 100,000. The capital and largest city is Nueva Gerona in the north, and the\
+  \ second-largest and oldest city is Santa Fe in the interior. Other communities\
+  \ include Columbia, La Demajagua (formerly Santa Bárbara), Mac Kinley, Cuchilla\
+  \ Alta, Punta del Este, Sierra de Caballos and Sierra de Casas.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '2007-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21410'
+  wikidata: Q7742731
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcc 'G'
+title: 'The Isle Of Pines (1668)
+
+  and An Essay in Bibliography by Worthington Chauncey Ford'
+url: http://www.gutenberg.org/ebooks/21410
+wikipedia:
+- https://de.wikipedia.org/wiki/Die_Insel_der_Fruchtbarkeit
+- https://en.wikipedia.org/wiki/The_Isle_of_Pines
